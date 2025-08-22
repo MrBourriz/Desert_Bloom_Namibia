@@ -51,3 +51,6 @@ This anomaly plot highlights deviations from the expected baseline during 2023â€
 ### 4. Reference Phenology Distribution (RFD)
 ![RFD 2023](img/RFD+2023.png)  
 The RFD visualization compares the observed NDVI values (black points) against the reference phenological envelope. The warm-colored contours represent the expected NDVI distribution. Points above the envelope mark significant greening anomalies (desert bloom conditions).
+## References
+- [1] *npphen: An R-Package for Detecting and Mapping Extreme Vegetation Anomalies Based on Remotely Sensed Phenological Variability. [https://www.mdpi.com/2072-4292/15/1/73](https://www.mdpi.com/2072-4292/15/1/73)
+- [2] 
